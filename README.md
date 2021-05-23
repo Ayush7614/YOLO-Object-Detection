@@ -38,14 +38,12 @@ I am using the ***numpy*** version ***1.17.4*** and ***opencv*** version ***3.4.
 You can now run the file by giving this command on your command promt
 
 ```
-python yolo.py --image images/ipl.jpeg
+python yolo.py --image images/any images.jpg
 ```
 
 You can use any image you want after the `--image` argument. Make sure you give the right path.
 
 Press **q** to quit the window of the image showing object detection
-
-Feel free to star ⭐ this repo if you find this useful and visit my [YouTube](https://www.youtube.com/channel/UCaOiKrS-R1Nuya0pxjQ68fA) channel if you have time.
 
 Thanks!
 
